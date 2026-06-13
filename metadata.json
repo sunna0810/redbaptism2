@@ -1,0 +1,6 @@
+{
+  "name": "붉은 세례: 침묵의 방주",
+  "description": "침입형 SF 사이버 미스터리 방탈출 게임. 실종된 사회부 기자 박지수의 단서를 찾아 '광휘의 방주' 본거지로 침투하세요. 진실을 송출하거나, 그것과 함께 묻히거나.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
